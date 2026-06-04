@@ -1,3 +1,7 @@
 "breuer":
   - firstname: ["Adam", "A."]
     url: https://www.adambreuer.com/
+
+"smith":
+  - firstname: ["Shailen", "S."]
+    url: https://shailensmith.github.io/

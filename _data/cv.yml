@@ -53,12 +53,14 @@ cv:
         summary: Research support for work on adversarial machine learning and training data privacy.
 
     Publications:
-      - title: "Reducing Information Dependency Does Not Cause Training Data Privacy. Adversarially Non-Robust Features Do."
+      - title: "Reducing information dependency does not cause training data privacy. Adversarially non-robust features do."
         authors:
           - Rasmus Torp
+          - Shailen Smith
+          - Adam Breuer
         publisher: ICLR 2026
         releaseDate: 2026
-        summary: Investigates the role of non-robust features in training data privacy and membership inference attacks. Co-first author. Supported by an OpenAI Cybersecurity Research Grant.
+        summary: Supported by an OpenAI Cybersecurity Research Grant.
 
     Skills:
       - name: Programming Languages
