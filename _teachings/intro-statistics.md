@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Introduction to Statistics"
-description: Head Teaching Assistant
+description: Teaching Assistant
 importance: 4
 category: Technical University of Denmark (DTU)
 ---
