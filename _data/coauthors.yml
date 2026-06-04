@@ -3,5 +3,14 @@
     url: https://www.adambreuer.com/
 
 "smith":
-  - firstname: ["Shailen", "S."]
+  - firstname: ["Shailen", "S.", "Shailen K."]
     url: https://shailensmith.github.io/
+
+"keating":
+  - firstname: ["Matthew", "M."]
+
+"casey":
+  - firstname: ["Michael", "M."]
+
+"niyigaba":
+  - firstname: ["Manzi Fabrice", "M. F."]
