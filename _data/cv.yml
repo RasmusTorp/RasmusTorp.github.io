@@ -19,8 +19,8 @@ cv:
         url: https://web.cs.dartmouth.edu/
         area: Computer Science
         studyType: PhD
-        start_date: 2024
-        end_date: Present
+        start_date: "2024"
+        end_date: "Present"
         highlights:
           - "Advised by Adam Breuer"
           - "Dartmouth PhD in Innovation Fellow (2025–Present)"
@@ -30,15 +30,15 @@ cv:
         url: https://www.dtu.dk/
         area: Artificial Intelligence and Data
         studyType: BSc
-        start_date: 2021
-        end_date: 2024
+        start_date: "2021"
+        end_date: "2024"
 
     Experience:
       - company: SimCorp
         position: Student AI Engineer
         location: Copenhagen, Denmark
-        start_date: 2024
-        end_date: 2024
+        start_date: "2024"
+        end_date: "2024"
         summary: Conducted research on AI systems, including time-series modeling and retrieval-augmented generation (RAG), within a large financial technology company.
 
     Awards:
@@ -64,17 +64,14 @@ cv:
 
     Skills:
       - name: Programming Languages
-        level: ""
         icon: fa-solid fa-code
         keywords: "Python, R, SQL, Java, C#, F#"
 
       - name: ML & Data Science
-        level: ""
         icon: fa-solid fa-brain
         keywords: "PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Weights & Biases"
 
       - name: Tools & Platforms
-        level: ""
         icon: fa-solid fa-toolbox
         keywords: "Azure, Hydra, Git, Bash"
 

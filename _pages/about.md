@@ -29,6 +29,6 @@ latest_posts:
 
 I am a PhD student in Computer Science at [Dartmouth College](https://web.cs.dartmouth.edu/), advised by [Adam Breuer](https://www.adambreuer.com/). My research focuses on **adversarial machine learning**, **privacy**, **robustness**, and **representation learning**. I study how non-robust features influence training data privacy, how learned representations transfer across models and modalities, and how data poisoning and adversarial attacks can affect the behavior of modern AI systems.
 
-I am also a [Dartmouth PhD in Innovation Fellow](https://magnuson.dartmouth.edu/phd-innovation-program/), a selective entrepreneurship and technology-transfer fellowship supporting researchers interested in translating academic research into real-world impact.
+I am also a [Dartmouth PhD in Innovation Fellow](https://graduate.dartmouth.edu/academics/graduate-registrar/phd-innovation-program-dartmouth), a selective entrepreneurship and technology-transfer fellowship supporting researchers interested in translating academic research into real-world impact.
 
 **Research Interests:** Adversarial Machine Learning, AI Security and Privacy, Training Data Privacy and Membership Inference, Representation Learning, Data Attribution and Data Valuation, Data Poisoning, Robustness and Generalization, Foundation Models and Multimodal AI.
