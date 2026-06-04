@@ -1,10 +1,7 @@
 cv:
   name: Rasmus Torp
-  label: PhD Student in Computer Science
   email: rasmus.torp@dartmouth.edu
   location: Hanover, NH
-  image: ""
-  summary: PhD student in Computer Science at Dartmouth College, researching adversarial machine learning, privacy, robustness, and representation learning.
 
   social_networks:
     - network: GitHub
@@ -19,8 +16,7 @@ cv:
         url: https://web.cs.dartmouth.edu/
         area: Computer Science
         studyType: PhD
-        start_date: "2024"
-        end_date: "Present"
+        start_date: 2024-09-01
         highlights:
           - "Advised by Adam Breuer"
           - "Dartmouth PhD in Innovation Fellow (2025–Present)"
@@ -30,27 +26,23 @@ cv:
         url: https://www.dtu.dk/
         area: Artificial Intelligence and Data
         studyType: BSc
-        start_date: "2021"
-        end_date: "2024"
+        start_date: 2021-09-01
+        end_date: 2024-06-01
 
     Experience:
       - company: SimCorp
         position: Student AI Engineer
         location: Copenhagen, Denmark
-        start_date: "2024"
-        end_date: "2024"
+        start_date: 2024-01-01
+        end_date: 2024-06-01
         summary: Conducted research on AI systems, including time-series modeling and retrieval-augmented generation (RAG), within a large financial technology company.
 
     Awards:
       - title: Dartmouth PhD in Innovation Fellowship
-        date: 2025
+        date: 2025-08-07
         awarder: Dartmouth College
         summary: Selective entrepreneurship and technology-transfer fellowship supporting researchers interested in translating academic research into real-world impact.
 
-      - title: OpenAI Cybersecurity Research Grant
-        date: 2025
-        awarder: OpenAI
-        summary: Research support for work on adversarial machine learning and training data privacy.
 
     Publications:
       - title: "Reducing information dependency does not cause training data privacy. Adversarially non-robust features do."
@@ -59,7 +51,7 @@ cv:
           - Shailen Smith
           - Adam Breuer
         publisher: ICLR 2026
-        releaseDate: 2026
+        releaseDate: 2026-01-01
         summary: Supported by an OpenAI Cybersecurity Research Grant.
 
     Skills:
