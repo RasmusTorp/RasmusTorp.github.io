@@ -2,12 +2,12 @@
 layout: page
 permalink: /research/
 title: research
-description: My research focuses on adversarial machine learning, AI security and privacy, and the broader societal implications of modern AI systems.
+description: 
 nav: true
 nav_order: 1
 ---
 
-I use adversarial methods to study how machine learning systems interact with the people, data, and incentives that shape them. My work spans training data privacy, data attribution and compensation, model ownership, and the robustness of foundation models.
+My research focuses on developing algorithms that _protect humans from AI misuse and failure_. Using techniques from **adversarial AI**, I study the robustness, privacy, and transferability of learned representations in machine learning systems. In particular, I investigate how non-robust features relate to training data privacy, and how manipulating representations through **data poisoning** can influence the downstream behavior of large models.
 
 ## Published
 
