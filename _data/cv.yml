@@ -44,6 +44,11 @@ cv:
         summary: Selective entrepreneurship and technology-transfer fellowship supporting researchers interested in translating academic research into real-world impact.
 
 
+    Service & Affiliations:
+      - title: "Member, OpenAI Privacy Academic Red Team"
+        date: 2026
+        summary: Invited as an academic red teamer performing robustness evaluation for OpenAI Privacy.
+
     Publications:
       - title: "Reducing information dependency does not cause training data privacy. Adversarially non-robust features do."
         authors:

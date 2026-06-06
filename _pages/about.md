@@ -35,6 +35,6 @@ My previous research investigated how learned representations can leak informati
 
 I also study emerging challenges in foundation models, including adversarial attacks on **multimodal AI systems**, protection of creative content from AI training, and the **extraction or imitation of model behaviors and personalities**.
 
-I am particularly interested in research that combines technical machine learning advances with questions of security, ownership, incentives, and governance, **helping shape how AI systems are developed and deployed in society**.
+I am particularly interested in research that combines technical machine learning advances with questions of security, ownership, incentives, and governance, **helping shape how AI systems are developed and deployed in society**. I am also a member of the **OpenAI Privacy Academic Red Team**, where I help evaluate the robustness of systems.
 
 **Research Interests:** Adversarial Machine Learning, AI Security and Privacy, Data Attribution and Compensation, Foundation Models, Representation Learning, AI Governance, and Digital Ownership.
