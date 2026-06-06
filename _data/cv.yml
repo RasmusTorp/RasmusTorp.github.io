@@ -47,7 +47,13 @@ cv:
     Service & Affiliations:
       - title: "Member, OpenAI Privacy Academic Red Team"
         date: 2026
+        awarder: OpenAI
         summary: Invited as an academic red teamer performing robustness evaluation for OpenAI Privacy.
+
+      - title: "Reviewer, NeurIPS"
+        date: 2026
+        awarder: NeurIPS
+        summary: Served as a reviewer for the Conference on Neural Information Processing Systems (NeurIPS).
 
     Publications:
       - title: "Reducing information dependency does not cause training data privacy. Adversarially non-robust features do."
